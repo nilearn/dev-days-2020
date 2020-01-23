@@ -1,6 +1,7 @@
 ## Welcome to Nilearn Montreal Conference, 2020!
 
 This is a five day conference organized by the [Nilearn](https:/nilearn.github.io) team, from May 18-22, 2020 in Montreal, Canada!  
+Organizers: Gael Varoquaux, Elizabeth Dupre, Kshitij Chawla.  
 Please contact [Kshitij Chawla](kshitij.chawla@inria.fr) if you have questions, suggestions, or want to participate in any of the events.
 
 ### Events
