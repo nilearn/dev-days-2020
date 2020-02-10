@@ -15,14 +15,15 @@ Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
 Machine Learning in Neuroimaging conference | Applications of ML in Neuroimaging, inn Python & R | May 22
 
 
-Sprint
-------
+Sprint Registration
+-------------------
 
-If you will be in Montreal during the evnt and would like to register for the event, please fill the form here:
+If you will be in Montreal during the event and would like to participate in the 3 day coding sprint, please fill the form here:
 
 <form name="input" method="POST" action="https://formspree.io/nilearn.events@gmail.com">
   Name: <input type="text" name="Name" placeholder="Your name">
   Email: <input type="email" name="_replyto" placeholder="Your email">
+  Dates: <input type="text" name="participation_dates" placeholder="Enter the dates when you will be participating">
   Role: <input type="text" name="Role" placeholder="Your current professional role">
   Affiliation: <input type="text" name="Affiliation" placeholder="Organnization you are affiliated with">
   Message: <textarea name="message" placeholder="Any accessibility or dietary requirements? Any other message?"></textarea>
