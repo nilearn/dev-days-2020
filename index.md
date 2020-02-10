@@ -24,7 +24,7 @@ If you will be in Montreal during the evnt and would like to register for the ev
   Name: <input type="text" name="Name" placeholder="Your name">
   Email: <input type="email" name="_replyto" placeholder="Your email">
   Role: <input type="text" name="Role" placeholder="Your current professional role">
-  Affiliation: <input type="text" name="Affiliation" placeholder"Organnization you are affiliated with">
+  Affiliation: <input type="text" name="Affiliation" placeholder="Organnization you are affiliated with">
   Message: <textarea name="message" placeholder="Any accessibility or dietary requirements? Any other message?"></textarea>
   <input type="submit" value="send">
 </form>
