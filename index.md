@@ -10,9 +10,9 @@ Event | Details | Time
 ----- | ------- | ----
 Open Source Software Development (Intro) | Git, Tests, Documentation | May 18 (Morning Session)
 Open Source Software Development (Advanced) | Project scope, Architecture, Design | May 18 (Afternoon Session)
-Coding Sprint for Nilearn | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | May 18, 19, 20
+Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | May 18, 19, 20
 Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
-Machine Learning in Neuroimaging conference | Applications of ML in Neuroimaging, inn Python & R | May 22
+Machine Learning in Neuroimaging conference ([Speakers](#machine-learning-in-neuroimaging-conference-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
 
 
 Sprint Registration
@@ -29,3 +29,11 @@ If you will be in Montreal during the event and would like to participate in the
   <p>Message: <textarea name="message" placeholder="Any accessibility or dietary requirements? Any other consideration?"></textarea></p>
   <p><input type="submit" value="send" size="40"></p>
 </form>
+
+
+Machine Learning in Neuroimaging Conference: Confirmed Speakers
+---------------------------------------------------------------
+
+  Carsen Stringer    ([Google Scholar](https://scholar.google.com/citations?user=6v9BmeYAAAAJ&hl=en))  
+  Jo Etzel    ([Profile](https://sites.wustl.edu/ccplab/people/jo-etzel/))  
+  Luke J Chang    ([Google Scholar](https://scholar.google.com/citations?user=nCCXMZoAAAAJ&hl=en))  
