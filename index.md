@@ -25,7 +25,7 @@ If you will be in Montreal during the event and would like to participate in the
   <p>Email: <input type="email" name="_replyto" placeholder="Your email" size="50"></p>
   <p>Dates: <input type="text" name="participation_dates" placeholder="Enter the dates when you will be participating, or 'All'" size="50"></p>
   <p>Role: <input type="text" name="Role" placeholder="Your current professional role" size="50"></p>
-  <p>Affiliation: <input type="text" name="Affiliation" placeholder="Organisation you are affiliated with" 5="50"></p>
+  <p>Affiliation: <input type="text" name="Affiliation" placeholder="Organisation you are affiliated with" size="50"></p>
   <p>Message: <textarea name="message" placeholder="Any accessibility or dietary requirements? Any other consideration?"></textarea></p>
   <p><input type="submit" value="send" size="80"></p>
 </form>
