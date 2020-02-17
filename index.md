@@ -35,5 +35,6 @@ Machine Learning in Neuroimaging Conference: Confirmed Speakers
 ---------------------------------------------------------------
 
   Carsen Stringer    ([Google Scholar](https://scholar.google.com/citations?user=6v9BmeYAAAAJ&hl=en))  
+  Eva Dyer ([Profile](https://bme.gatech.edu/bme/faculty/Eva-Dyer))  
   Jo Etzel    ([Profile](https://sites.wustl.edu/ccplab/people/jo-etzel/))  
   Luke J Chang    ([Google Scholar](https://scholar.google.com/citations?user=nCCXMZoAAAAJ&hl=en))  
