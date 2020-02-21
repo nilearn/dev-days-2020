@@ -1,10 +1,11 @@
-## Welcome to Nilearn Montreal Conference, 2020!
 
-This is a five day conference organized by the [Nilearn](https:/nilearn.github.io) team, from May 18-22, 2020 in Montreal, Canada!  
+## Welcome to Nilearn Montreal Workshop, 2020!
+
+A five day workshop organized by the [Nilearn](https:/nilearn.github.io) team, from May 18-22, 2020 in Montreal, Canada!  
 Organizers: Gael Varoquaux, Elizabeth Dupre, Kshitij Chawla.  
 Please contact [Kshitij Chawla](kshitij.chawla@inria.fr) if you have questions, suggestions, or want to participate in any of the events.
 
-### Events
+### Schedule
 
 Event | Details | Time
 ----- | ------- | ----
@@ -12,7 +13,7 @@ Open Source Software Development (Intro) | Git, Tests, Documentation | May 18 (M
 Open Source Software Development (Advanced) | Project scope, Architecture, Design | May 18 (Afternoon Session)
 Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | May 18, 19, 20
 Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
-Machine Learning in Neuroimaging conference ([Speakers](#machine-learning-in-neuroimaging-conference-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
+Machine Learning in Neuroimaging talks ([Speakers](#machine-learning-in-neuroimaging-talks-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
 
 
 Sprint Registration
@@ -31,7 +32,7 @@ If you will be in Montreal during the event and would like to participate in the
 </form>
 
 
-Machine Learning in Neuroimaging Conference: Confirmed Speakers
+Machine Learning in Neuroimaging Talks: Confirmed Speakers
 ---------------------------------------------------------------
 
   [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  
