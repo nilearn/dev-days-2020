@@ -34,7 +34,12 @@ If you will be in Montreal during the event and would like to participate in the
 Machine Learning in Neuroimaging Conference: Confirmed Speakers
 ---------------------------------------------------------------
 
-  Carsen Stringer    ([Google Scholar](https://scholar.google.com/citations?user=6v9BmeYAAAAJ&hl=en))  
-  Eva Dyer ([Google Scholar](https://scholar.google.com/citations?user=Sb_jcHcAAAAJ))  
-  Jo Etzel    ([Profile](https://sites.wustl.edu/ccplab/people/jo-etzel/))  
-  Luke J Chang    ([Google Scholar](https://scholar.google.com/citations?user=nCCXMZoAAAAJ&hl=en))  
+  [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  
+  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  
+  [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/)  
+  [Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  
+
+
+### Supported by
+
+[![The Human Brain Project](https://sos-ch-dk-2.exo.io/public-website-production/img/HBP.png)](https://www.humanbrainproject.eu/en/)
