@@ -1,5 +1,5 @@
 
-## A workshop on statistical learning for brain imaging, in Python
+## nilear: statistical learning for brain imaging, in Python
 
 A five day workshop organized by the [Nilearn](https:/nilearn.github.io) team, from May 18-22, 2020 in Montreal, Canada!  
 Organizers: Gael Varoquaux, Elizabeth Dupre, Kshitij Chawla.  
