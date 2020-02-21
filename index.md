@@ -1,5 +1,5 @@
 
-## Welcome to Nilearn Montreal Workshop, 2020!
+## A workshop on statistical learning for brain imaging, in Python
 
 A five day workshop organized by the [Nilearn](https:/nilearn.github.io) team, from May 18-22, 2020 in Montreal, Canada!  
 Organizers: Gael Varoquaux, Elizabeth Dupre, Kshitij Chawla.  
@@ -9,8 +9,8 @@ Please contact [Kshitij Chawla](kshitij.chawla@inria.fr) if you have questions, 
 
 Event | Details | Time
 ----- | ------- | ----
-Open Source Software Development (Intro) | Git, Tests, Documentation | May 18 (Morning Session)
-Open Source Software Development (Advanced) | Project scope, Architecture, Design | May 18 (Afternoon Session)
+Open Source Software Development (Intro) | Git, Tests, Documentation | May 18 (Morning)
+Open Source Software Development (Advanced) | Project scope, Architecture, Design | May 18 (Afternoon)
 Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | May 18, 19, 20
 Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
 Machine Learning in Neuroimaging talks ([Speakers](#machine-learning-in-neuroimaging-talks-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
