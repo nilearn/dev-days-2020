@@ -14,7 +14,7 @@ Open Source Software Development (Intro) | Git, Tests, Documentation | May 19 (M
 Open Source Software Development (Advanced) | Project scope, Architecture, Design | May 19 (Afternoon)
 Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | May 19, 20, 21
 Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
-Machine Learning in Neuroimaging talks ([Speakers](#machine-learning-in-neuroimaging-talks-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
+Scientific day: Machine Learning in Neuroimaging ([Speakers](#machine-learning-in-neuroimaging-talks-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
 
 
 Sprint Registration
@@ -33,8 +33,8 @@ If you will be in Montreal during the event and would like to participate in the
 </form>
 
 
-Machine Learning in Neuroimaging Talks: Confirmed Speakers
----------------------------------------------------------------
+Scientific day: Confirmed Speakers
+-------------------------------------
 
   [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  
   [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  
