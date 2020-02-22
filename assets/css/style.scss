@@ -11,3 +11,22 @@ section.page-header .btn {
 footer {
   display: none;
 }
+
+section.page-header {
+  background-image: linear-gradient(160deg, rgba(42,98,128,1) 0%, rgba(52,153,205,1) 17%, rgba(255,243,211,1) 59%, rgba(255,178,96,1) 100%);
+  color: black;
+}
+
+@media (min-width: 860px) {
+    section.page-header .project-name {
+	background-image: url('https://nilearn.github.io/nilearn.github.io/_static/nilearn-logo.png');
+	background-repeat: no-repeat;
+	overflow: visible;
+	background-size: 3em;
+    }
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #bf6200;
+}
+
