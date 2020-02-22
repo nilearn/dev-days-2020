@@ -1,13 +1,14 @@
 
 ## nilearn: statistical learning for brain imaging, in Python
 
-A five day workshop on [Nilearn](https:/nilearn.github.io):
+A five-day workshop on [Nilearn](https:/nilearn.github.io):
 
 * Scientific talks about the use of machine learning for imaging
-  neurosciences
-* Tutorials to understand how use nilearn for better statistical learning
-  on brain images
-* Coding sprints to build together the future of nilearn
+  neurosciences (May 22nd)
+* Tutorials to understand how use nilearn for statistical learning
+  on brain images (May 21st)
+* Coding sprints to build together the future of nilearn (May 18th -
+  21st)
 
 Organizers: Gael Varoquaux, Elizabeth Dupre, Kshitij Chawla.  
 Please contact [Kshitij Chawla](kshitij.chawla@inria.fr) if you have questions, or want to participate in any of the events.
