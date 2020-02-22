@@ -40,6 +40,7 @@ Scientific day: Confirmed Speakers
   [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  
   [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/)  
   [Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  
+  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)
 
 
 ### Supported by
