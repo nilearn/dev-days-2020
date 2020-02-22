@@ -1,7 +1,7 @@
 
 ## nilearn: statistical learning for brain imaging, in Python
 
-A five day workshop organized by the [Nilearn](https:/nilearn.github.io) team, from May 18-22, 2020 in Montreal, Canada!  
+A five day workshop on [Nilearn](https:/nilearn.github.io)
 
 * Scientific talks about the use of machine learning for imaging
   neurosciences
