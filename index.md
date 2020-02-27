@@ -18,11 +18,11 @@ Please contact [Kshitij Chawla](mailto:kshitij.chawla@inria.fr) if you have ques
 Event | Details | Time
 ----- | ------- | ----
 Informal coding sprint | Get to know the code base and meet developers | May 18
-Open Source Software Development (Intro) | Git, Tests, Documentation | May 19 (Morning)
-Open Source Software Development (Advanced) | Project scope, Architecture, Design | May 19 (Afternoon)
+Open Source Software Development (Intro) ([Speakers](#open-source-software-crafting-conference-confirmed-speakers)) | Git, Tests, Documentation | May 19 (Morning)
+Open Source Software Development (Advanced)  ([Speakers](#open-source-software-crafting-conference-confirmed-speakers))| Project scope, Architecture, Design | May 19 (Afternoon)
 Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | May 19, 20, 21
 Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
-Scientific day: Machine Learning in Neuroimaging ([Speakers](#machine-learning-in-neuroimaging-talks-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
+Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
 
 
 Sprint Registration
@@ -48,8 +48,14 @@ Scientific day: Confirmed Speakers
   [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  
   [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/)  
   [Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  
-  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)
+  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  
+  [Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette)
 
+Open Source Software Crafting Conference: Confirmed Speakers
+------------------------------------------------------------
+
+[Alejandro de la Vega](https://adelavega.github.io/)  
+[Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  
 
 ### Supported by
 
