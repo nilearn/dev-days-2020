@@ -44,18 +44,22 @@ If you will be in Montreal during the event and would like to participate in the
 Scientific day: Confirmed Speakers
 -------------------------------------
 
-  [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  
-  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  
-  [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/)  
-  [Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  
-  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  
-  [Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette)
+Speaker | Presentation Title
+--------|--------------------
+[Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  |  Rastermap: A Visualization Tool for High-dimensional Neural Data
+[Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  | *to be announced*
+[Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | *to be announced*
+[Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  | *to be announced*
+[Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  | *to be announced*
+[Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | *to be announced*
 
 Open Source Software Crafting Conference: Confirmed Speakers
 ------------------------------------------------------------
 
-[Alejandro de la Vega](https://adelavega.github.io/)  
-[Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  
+Speaker | Presentation Title
+--------|--------------------
+[Alejandro de la Vega](https://adelavega.github.io/)  | *to be announced*
+[Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  | *to be announced*
 
 ### Supported by
 
