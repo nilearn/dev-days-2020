@@ -59,7 +59,7 @@ Open Source Software Crafting Conference: Confirmed Speakers
 Speaker | Presentation Title
 --------|--------------------
 [Alejandro de la Vega](https://adelavega.github.io/)  | *to be announced*
-[Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  | *to be announced*
+[Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  | Testing Numerical Code in Python
 
 ### Supported by
 
