@@ -25,22 +25,6 @@ Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
 Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
 
 
-Sprint Registration
--------------------
-
-If you will be in Montreal during the event and would like to participate in the 3 day coding sprint, please fill the form here:
-
-<form name="input" method="POST" action="https://formspree.io/nilearn.events@gmail.com">
-  <p>Name: <input type="text" name="Name" placeholder="Your name" size="50"></p>
-  <p>Email: <input type="email" name="_replyto" placeholder="Your email" size="50"></p>
-  <p>Dates: <input type="text" name="participation_dates" placeholder="Enter the dates when you will be participating, or 'All'" size="50"></p>
-  <p>Role: <input type="text" name="Role" placeholder="Your current professional role" size="50"></p>
-  <p>Affiliation: <input type="text" name="Affiliation" placeholder="Organisation you are affiliated with" size="50"></p>
-  <p>Message: <textarea name="message" placeholder="Any accessibility or dietary requirements? Any other consideration?"></textarea></p>
-  <p><input type="submit" value="send" size="80"></p>
-</form>
-
-
 Scientific day: Confirmed Speakers
 -------------------------------------
 
@@ -60,6 +44,22 @@ Speaker | Presentation Title
 --------|--------------------
 [Alejandro de la Vega](https://adelavega.github.io/)  | *to be announced*
 [Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  | Testing Numerical Code in Python
+
+
+Sprint Registration
+-------------------
+
+If you will be in Montreal during the event and would like to participate in the 3 day coding sprint, please fill the form here:
+
+<form name="input" method="POST" action="https://formspree.io/nilearn.events@gmail.com">
+  <p>Name: <input type="text" name="Name" placeholder="Your name" size="50"></p>
+  <p>Email: <input type="email" name="_replyto" placeholder="Your email" size="50"></p>
+  <p>Dates: <input type="text" name="participation_dates" placeholder="Enter the dates when you will be participating, or 'All'" size="50"></p>
+  <p>Role: <input type="text" name="Role" placeholder="Your current professional role" size="50"></p>
+  <p>Affiliation: <input type="text" name="Affiliation" placeholder="Organisation you are affiliated with" size="50"></p>
+  <p>Message: <textarea name="message" placeholder="Any accessibility or dietary requirements? Any other consideration?"></textarea></p>
+  <p><input type="submit" value="send" size="80"></p>
+</form>
 
 ### Supported by
 
