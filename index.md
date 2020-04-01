@@ -35,7 +35,7 @@ Speaker | Presentation Title
 [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
 [Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  | *to be announced*
 [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  | Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
-[Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | *to be announced*
+[Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
 
 Open Source Software Crafting Conference: Confirmed Speakers
 ------------------------------------------------------------
