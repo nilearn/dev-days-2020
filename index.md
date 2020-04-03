@@ -11,7 +11,7 @@ A five-day workshop on [Nilearn](https:/nilearn.github.io):
   21st)
 
 Organizers: Gael Varoquaux, Elizabeth Dupre, Kshitij Chawla.  
-Please contact [Nilearn Events](mailto:nilearn.events@gmail.com) team if you have questions, or want to participate in any of the events.
+Please contact the [Nilearn Events](mailto:nilearn.events@gmail.com) team if you have questions, or want to participate in any of the events.
 
 ### Schedule
 
