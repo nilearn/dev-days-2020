@@ -42,7 +42,7 @@ Open Source Software Crafting Conference: Confirmed Speakers
 
 Speaker | Presentation Title
 --------|--------------------
-[Julia Hutenburg](https://github.com/juhuntenburg) | Adding new features to Nilearn
+[Julia Huntenburg](https://github.com/juhuntenburg) | Adding new features to Nilearn
 [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) | Documentation-driven development
 [Gaël Varoquaux](http://gael-varoquaux.info/) | Open source software: how to live long and go far
 [Elizabeth DuPre](https://elizabeth-dupre.com) | GitHub for project maintainers
