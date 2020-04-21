@@ -42,14 +42,19 @@ Open Source Software Crafting Conference: Confirmed Speakers
 
 Speaker | Presentation Title
 --------|--------------------
-[Alejandro de la Vega](https://adelavega.github.io/)  | *to be announced*
+[Julia Hutenburg](https://github.com/juhuntenburg) | Adding new features to Nilearn
+[Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) | Documentation-driven development
+[Gaël Varoquaux](http://gael-varoquaux.info/) | Open source software: how to live long and go far
+[Elizabeth DuPre](https://elizabeth-dupre.com) | GitHub for project maintainers
 [Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  | Testing Numerical Code in Python
+[Jérôme Dockès](https://jeromedockes.github.io/) | Continuous Integration
+[Alejandro de la Vega](https://adelavega.github.io/)  | The Python ecosystem for neuroimaging
 
 
 Sprint Registration
 -------------------
 
-If you will be in Montreal during the event and would like to participate in the 3 day coding sprint, please fill the form here:
+If you would like to participate in the 3 day coding sprint, please fill the form here:
 
 <form name="input" method="POST" action="https://formspree.io/nilearn.events@gmail.com">
   <p>Name: <input type="text" name="Name" placeholder="Your name" size="50"></p>
@@ -57,8 +62,8 @@ If you will be in Montreal during the event and would like to participate in the
   <p>Dates: <input type="text" name="participation_dates" placeholder="Enter the dates when you will be participating, or 'All'" size="50"></p>
   <p>Role: <input type="text" name="Role" placeholder="Your current professional role" size="50"></p>
   <p>Affiliation: <input type="text" name="Affiliation" placeholder="Organisation you are affiliated with" size="50"></p>
-  <p>Message, including accessibility or dietary requirements:</p> 
-  <textarea name="message" placeholder="Any accessibility or dietary requirements? Any other consideration?"></textarea>
+  <p>Comment</p> 
+  <textarea name="message" placeholder="Any other consideration?"></textarea>
   <p><input type="submit" value="send" size="80"></p>
 </form>
 
