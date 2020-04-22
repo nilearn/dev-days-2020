@@ -1,7 +1,7 @@
 
-## nilearn: statistical learning for brain imaging, in Python
+## Nilearn Dev Days 2020
 
-A four-day workshop on [Nilearn](https:/nilearn.github.io):
+A four-day workshop on [Nilearn](https:/nilearn.github.io) featuring:
 
 * One-day conference on best practices in scientific software development,
 and how we use these within the Nilearn team (19 May)
