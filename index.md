@@ -8,10 +8,6 @@ and how we use these within the Nilearn team (19 May)
 * Two-day coding sprint to improve and extend the Nilearn library (20-21 May)
 * One-day conference on machine learning for neuroimaging (22 May)
 
-Organizers: Elizabeth DuPre, Gaël Varoquaux, Jérôme Dockès, Kshitij Chawla, Thomas Bazeille.  
-
-Please contact the [Nilearn Events](mailto:nilearn.events@gmail.com) team if you have questions, or want to participate in any of the events.
-
 ### Schedule
 
 Event | Details | Time
@@ -66,6 +62,12 @@ If you would like to participate in the 3 day coding sprint, please fill the for
   <textarea name="message" placeholder="Any other consideration?"></textarea>
   <p><input type="submit" value="send" size="80"></p>
 </form>
+
+### Contact
+
+**Organizers:** Elizabeth DuPre, Gaël Varoquaux, Jérôme Dockès, Kshitij Chawla, Thomas Bazeille.  
+
+Please contact the [Nilearn Events](mailto:nilearn.events@gmail.com) team if you have questions, or want to participate in any of the events.
 
 ### Supported by
 
