@@ -12,8 +12,8 @@ and how we use these within the Nilearn team (19 May)
 
 Event | Details | Time
 ----- | ------- | ----
-Open Source Software Development (Intro) ([Speakers](#open-source-software-crafting-conference-confirmed-speakers)) | Git, Tests, Documentation | 19 May (Morning)
-Open Source Software Development (Advanced)  ([Speakers](#open-source-software-crafting-conference-confirmed-speakers))| Project scope, Architecture, Design | 19 May (Afternoon)
+Open Source Software Development (Intro) ([Speakers](#open-source-software-conference-confirmed-speakers)) | Git, Tests, Documentation | 19 May (Morning)
+Open Source Software Development (Advanced)  ([Speakers](#open-source-software-conference-confirmed-speakers))| Project scope, Architecture, Design | 19 May (Afternoon)
 Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | 20-21 May 
 Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-confirmed-speakers)) | Applications of ML in Neuroimaging | 22 May
 
