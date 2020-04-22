@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Nilearn Dev Days 2020"
-description: |
-Online, May 19-22, 2020
-Join the Nilearn dev community and shape what's next.
+description: "Online, May 19-22, 2020\n
+Join the Nilearn dev community and shape what's next"
 
 github:
     is_project_page: "false"
