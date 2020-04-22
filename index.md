@@ -1,43 +1,27 @@
 
 ## nilearn: statistical learning for brain imaging, in Python
 
-A five-day workshop on [Nilearn](https:/nilearn.github.io):
+A four-day workshop on [Nilearn](https:/nilearn.github.io):
 
-* Scientific talks about the use of machine learning for imaging
-  neurosciences (May 22nd)
-* Tutorials to understand how use nilearn for statistical learning
-  on brain images (May 21st)
-* Coding sprints to build together the future of nilearn (May 18th -
-  21st)
+* One-day conference on best practices in scientific software development,
+and how we use these within the Nilearn team (19 May)
+* Two-day coding sprint to improve and extend the Nilearn library (20-21 May)
+* One-day conference on machine learning for neuroimaging (22 May)
 
-Organizers: Gael Varoquaux, Elizabeth Dupre, Kshitij Chawla.  
+Organizers: Elizabeth DuPre, Gaël Varoquaux, Jérôme Dockès, Kshitij Chawla, Thomas Bazeille.  
+
 Please contact the [Nilearn Events](mailto:nilearn.events@gmail.com) team if you have questions, or want to participate in any of the events.
 
 ### Schedule
 
 Event | Details | Time
 ----- | ------- | ----
-Informal coding sprint | Get to know the code base and meet developers | May 18
-Open Source Software Development (Intro) ([Speakers](#open-source-software-crafting-conference-confirmed-speakers)) | Git, Tests, Documentation | May 19 (Morning)
-Open Source Software Development (Advanced)  ([Speakers](#open-source-software-crafting-conference-confirmed-speakers))| Project scope, Architecture, Design | May 19 (Afternoon)
-Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | May 19, 20, 21
-Tutorials | Scikit-Learn, Nilearn, Nistats | May 21
-Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-confirmed-speakers)) | Applications of ML in Neuroimaging, in Python & R | May 22
+Open Source Software Development (Intro) ([Speakers](#open-source-software-crafting-conference-confirmed-speakers)) | Git, Tests, Documentation | 19 May (Morning)
+Open Source Software Development (Advanced)  ([Speakers](#open-source-software-crafting-conference-confirmed-speakers))| Project scope, Architecture, Design | 19 May (Afternoon)
+Coding Sprint for Nilearn ([Register](#sprint-registration)) | Contribute new features and bug fixes under the guidance of the Nilearn team. For new developers and experienced users. | 20-21 May 
+Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-confirmed-speakers)) | Applications of ML in Neuroimaging | 22 May
 
-
-Scientific day: Confirmed Speakers
--------------------------------------
-
-Speaker | Presentation Title
---------|--------------------
-[Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  |  Rastermap: A Visualization Tool for High-dimensional Neural Data
-[Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
-[Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
-[Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  | *to be announced*
-[Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  | Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
-[Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
-
-Open Source Software Crafting Conference: Confirmed Speakers
+Open Source Software Conference: Confirmed Speakers
 ------------------------------------------------------------
 
 EDT | CET | Speaker | Presentation Title
@@ -54,6 +38,18 @@ EDT | CET | Speaker | Presentation Title
 14:45 | 20:45 |  [Jérôme Dockès](https://jeromedockes.github.io/) | Continuous Integration
 15:30 | 21:30 |  [Alejandro de la Vega](https://adelavega.github.io/)  | The Python ecosystem for neuroimaging
 16:15 | 22:15 |  | end
+
+Scientific day: Confirmed Speakers
+-------------------------------------
+
+Speaker | Presentation Title
+--------|--------------------
+[Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  |  Rastermap: A Visualization Tool for High-dimensional Neural Data
+[Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
+[Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
+[Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  | *to be announced*
+[Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  | Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
+[Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
 
 Sprint Registration
 -------------------
