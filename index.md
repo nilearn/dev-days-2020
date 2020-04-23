@@ -1,7 +1,7 @@
 ---
 title: Nilearn Dev Days 2020
 layout: default
-filename: index.md
+filename: about.html
 ---
 
 ## Nilearn Dev Days 2020
@@ -28,7 +28,6 @@ Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-con
 
 For the two mini-conferences (Software Development and Scientific Day), all talks
 will be recorded and posted online.
-
 
 ## Sprint Registration
 
