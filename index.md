@@ -1,5 +1,5 @@
 ---
-title: index
+title: Nilearn Dev Days 2020
 layout: default
 filename: index.md
 ---

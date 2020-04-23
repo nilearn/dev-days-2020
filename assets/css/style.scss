@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Hide the github link */
-section.page-header .btn {
-  display: none;
-}
-
 footer {
   display: none;
 }
