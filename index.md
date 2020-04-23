@@ -1,7 +1,7 @@
 ---
 title: Nilearn Dev Days 2020
 layout: default
-filename: ''
+filename: '/'
 ---
 
 ## Nilearn Dev Days 2020
