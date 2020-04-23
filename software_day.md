@@ -1,7 +1,7 @@
 ---
 title: Software Day
 layout: default
-filename: software_day.md
+filename: software_day.html
 ---
 
 ## Open Source Software Conference: Confirmed Speakers

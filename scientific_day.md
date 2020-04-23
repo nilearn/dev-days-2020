@@ -1,7 +1,7 @@
 ---
 title: Scientific Day
 layout: default
-filename: scientific_day.md
+filename: scientific_day.html
 ---
 
 ## Scientific day: Confirmed Speakers
