@@ -16,14 +16,14 @@ The Dev Days will be structured as **a four-day event from 19-22 May**, all occu
 
 Event | Details | Time
 ----- | ------- | ----
-Software day: Open Source Software Development  ([Speakers](#open-source-software-conference-confirmed-speakers)) | Best practices in scientific software development and how these are reflected in Nilearn's development philosophy | 19 May
-Coding Sprint for Nilearn ([Register](#sprint-registration)) | Improve and extend the Nilearn library under the guidance of the Nilearn team. For new developers and experienced users. | 20-21 May
-Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-confirmed-speakers)) | Applications of machine learning in Neuroimaging | 22 May
+Software development day ([Speakers](#software-development-day-19-may-confirmed-speakers)) | Best practices in scientific software development and how these are reflected in Nilearn's development philosophy | 19 May
+Coding Sprint for Nilearn ([Register](#sprint-registration)) | Improve and extend the Nilearn library under the guidance of the Nilearn team. For developers and experienced users. | 20-21 May
+Scientific day: Machine Learning in Neuroimaging ([Speakers](#scientific-day-22-may-confirmed-speakers)) | Applications of machine learning in Neuroimaging | 22 May
 
-For the two mini-conferences (Software Development and Scientific Day), all talks
+For the two mini-conferences (Software Development Day and Scientific Day), all talks
 will be recorded and posted online.
 
-## Open Source Software Conference: Confirmed Speakers
+## Software development day (19 May): Confirmed Speakers
 
 EDT | CET | Speaker | Presentation Title
 ----|-----|---------|-------------------
@@ -39,9 +39,22 @@ EDT | CET | Speaker | Presentation Title
 14:45 | 20:45 |  [Jérôme Dockès](https://jeromedockes.github.io/) | Continuous integration for academic software
 15:30 | 21:30 |  [Alejandro de la Vega](https://adelavega.github.io/)  | The Python ecosystem for neuroimaging
 
+## Scientific day (22 May): Confirmed Speakers
+
+Speaker | Presentation Title
+--------|--------------------
+[Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  |  Rastermap: A Visualization Tool for High-dimensional Neural Data
+[Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
+[Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
+[Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  | *to be announced*
+[Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  | Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
+[Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
+
 ## Sprint Registration
 
-If you would like to participate in the 3 day coding sprint, please fill the form here:
+If you would like to participate in the 2 day coding sprint, please fill the
+form below. This will help us select issues to be addressed during the sprint
+and organize the participation of nilearn maintainers.
 
 <form name="input" method="POST" action="https://formspree.io/nilearn.events@gmail.com">
   <p>Name: <input type="text" name="Name" placeholder="Your name" size="50"></p>
@@ -54,17 +67,6 @@ If you would like to participate in the 3 day coding sprint, please fill the for
   <p><input type="submit" value="send" size="80"></p>
 </form>
 
-## Scientific day: Confirmed Speakers
-
-
-Speaker | Presentation Title
---------|--------------------
-[Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  |  Rastermap: A Visualization Tool for High-dimensional Neural Data
-[Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/)  | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
-[Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
-[Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0)  | *to be announced*
-[Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)  | Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
-[Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
 
 ## Contact
 
