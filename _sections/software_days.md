@@ -2,7 +2,7 @@
 title: Software development day 
 subtitle: 19 May - Confirmed Speakers
 icon: fa-laptop-code
-order: 2
+order: 3
 ---
 
 
