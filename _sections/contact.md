@@ -1,7 +1,7 @@
 ---
 title: Contact
 icon: fa-user-friends
-order: 6
+order: 7
 ---
 
 **Organizers:** Elizabeth DuPre, Gaël Varoquaux, Jérôme Dockès, Kshitij Chawla, Thomas Bazeille.

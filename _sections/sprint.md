@@ -2,7 +2,7 @@
 title: Coding sprint
 subtitle: Improve nilearn
 icon: fa-laptop-code
-order: 5
+order: 6
 ---
 
 If you would like to receive information about the organization of the online
