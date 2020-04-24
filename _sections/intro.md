@@ -3,6 +3,9 @@ title: Nilearn Dev Days 2020
 subtitle: An online event
 icon: fa-brain
 order: 2
+cover-photo: assets/images/banner.jpg
+cover-photo-alt: example cover photo
+auto-header: none
 ---
 
 
