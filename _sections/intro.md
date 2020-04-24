@@ -1,5 +1,5 @@
 ---
-title: Nilearn Dev Days 2020
+title: Dev Days
 icon: fa-th
 order: 2
 ---
