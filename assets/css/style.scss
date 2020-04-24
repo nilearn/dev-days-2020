@@ -3,18 +3,23 @@
 
 @import "{{ site.theme }}";
 
+/* Hide the github link */
+section.page-header .btn {
+  display: none;
+}
+
 footer {
   display: none;
 }
 
-header.page-header {
+section.page-header {
   background-color: rgba(255,243,211,1);
   background-image: linear-gradient(160deg, rgba(42,98,128,1) 0%, rgba(52,153,205,1) 17%, rgba(255,243,211,1) 59%, rgba(255,178,96,1) 100%);
   color: black;
 }
 
 @media (min-width: 860px) {
-    header.page-header .project-name {
+    section.page-header .project-name {
 	background-image: url('https://nilearn.github.io/nilearn.github.io/_static/nilearn-logo.png');
 	background-repeat: no-repeat;
 	overflow: visible;
