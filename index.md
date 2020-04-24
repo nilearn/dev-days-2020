@@ -52,9 +52,9 @@ Speaker | Presentation Title
 
 ## Sprint Registration
 
-If you would like to participate in the 2 day coding sprint, please fill the
-form below. This will help us select issues to be addressed during the sprint
-and organize the participation of nilearn maintainers.
+If you would like to receive information about the organization of the online
+sprint directly by email, please fill the form below.
+Otherwise this page will be maintained up-to-date.
 
 <form name="input" method="POST" action="https://formspree.io/nilearn.events@gmail.com">
   <p>Name: <input type="text" name="Name" placeholder="Your name" size="50"></p>
