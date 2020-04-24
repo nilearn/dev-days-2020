@@ -1,4 +1,4 @@
-## Nilearn Dev Days 2020
+# Nilearn Dev Days 2020
 
 [Nilearn](https://nilearn.github.io) is a python tool that has historically focused on statistical learning with volumetric magnetic resonance imaging (MRI) data.
 With the recent merge of the [Nistats](https://nistats.github.io) code base,
