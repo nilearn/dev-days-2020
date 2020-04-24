@@ -1,8 +1,7 @@
 ---
 title: Schedule
-layout: "page"
 icon: fa-calendar-alt
-order: 1
+order: 3
 ---
 
 The Dev Days will be structured as **a four-day event from 19-22 May**, all occurring online:

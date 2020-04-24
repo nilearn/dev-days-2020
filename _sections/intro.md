@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Nilearn Dev Days 2020
 subtitle: An online event
 icon: fa-brain
