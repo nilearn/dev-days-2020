@@ -24,8 +24,8 @@ EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 15:30 | 21:30 |  [Alejandro de la Vega](https://adelavega.github.io/)  | The Python ecosystem for neuroimaging
 
 <sup>&#42;</sup> EDT: [Eastern Daylight Time](https://time.is/EDT): New
-York, Boston, Philadelphia, Montreal
+York, Boston, Philadelphia, Montreal...
 
 <sup>&#42;</sup> CET: [Central European Time](https://time.is/CET): Paris, Rome, Berlin,
-Madrid
+Madrid...
 
