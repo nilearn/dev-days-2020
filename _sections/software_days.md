@@ -23,6 +23,6 @@ EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 <sup>&#42;</sup> EDT: [Eastern Daylight Time](https://time.is/EDT): New
 York, Boston, Philadelphia, Montreal
 
-CET: [Central European Time](https://time.is/CET): Paris, Rome, Berlin,
+<sup>&#42;</sup> CET: [Central European Time](https://time.is/CET): Paris, Rome, Berlin,
 Madrid
 
