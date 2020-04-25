@@ -8,6 +8,7 @@ $nilearn-darkorange: #bf6200;
 $nilearn-blue: #1e6bb8;
 $nilearn-lightblue: #3499cd;
 $nilearn-lightorange: #fff3d3;
+$nilearn-orange: #ffb260;
 $nilearn-bgorange: #fffaee;
 $nilearn-bgblue: #e8f7ff;
 
@@ -349,7 +350,7 @@ $nilearn-bgblue: #e8f7ff;
 			@include vendor('transition', 'all 0.35s ease-in-out');
 
 			&:focus {
-				box-shadow: 0 0 2px 1px #8ebebc;
+				box-shadow: 0 0 2px 1px $nilearn-lightblue;
 				background: #fff;
 			}
 		}
@@ -604,7 +605,7 @@ $nilearn-bgblue: #e8f7ff;
 						color: #fff;
 
 						span::before {
-							color: $nilearn-lightorange;
+							color: $nilearn-orange;
 						}
 					}
 				}
