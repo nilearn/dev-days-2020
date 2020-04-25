@@ -683,6 +683,10 @@ $nilearn-bgblue: #e8f7ff;
 						border-bottom-color: rgba(255, 255, 255, 0);
 					}
 				}
+
+				header > p {
+					margin: 0;
+				}
 			}
 
 			&.cover {
