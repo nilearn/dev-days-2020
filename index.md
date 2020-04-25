@@ -13,7 +13,7 @@ auto-header: none
 ---
 
 <header>
-  <h2 class="alt"><a href="http://http://nilearn.github.io/">Nilearn</a> Dev Days  2020</h2>
+  <h2 class="alt"><a href="http://http://nilearn.github.io/">Nilearn</a> Dev Days 2020 &mdash 19-22 May</h2>
   <p>Join online the Nilearn development community and shape what's next</p>
 </header>
 
