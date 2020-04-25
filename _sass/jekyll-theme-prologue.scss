@@ -120,11 +120,12 @@ $nilearn-bgblue: #e8f7ff;
 		font-weight: 600;
 
 		> p {
-			margin: 0;
+			margin: 0 0 1.5em 0;
 		}
 
 		h2, a {
 			color: black;
+			font-weight: 600;
 		}
 
 	}
@@ -711,19 +712,19 @@ $nilearn-bgblue: #e8f7ff;
 			}
 
 			&.shade-one {
-				background-color: #fff;
-			}
-
-			&.shade-two {
 				background-color: $nilearn-bgorange;
 			}
 
-			&.shade-three {
+			&.shade-two {
 				background-color: #fff;
 			}
 
-			&.shade-four {
+			&.shade-three {
 				background-color: $nilearn-bgblue;
+			}
+
+			&.shade-four {
+				background-color: #fff;
 			}
 		}
 	}
