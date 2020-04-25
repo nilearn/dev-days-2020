@@ -5,6 +5,11 @@ icon: fa-microscope
 order: 5
 ---
 
+The scientific day will illustrate exciting neuroscience that can be done
+with techniques such as those in nilearn. As the goal is to inspire and
+sketch the future of nilearn, the talks are not restricted to studies
+that have been performed using nilearn.
+
 Speaker | Presentation Title
 --------|--------------------
 [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/)  |  Rastermap: A Visualization Tool for High-dimensional Neural Data
