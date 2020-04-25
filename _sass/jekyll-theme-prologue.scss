@@ -9,7 +9,7 @@ $nilearn-blue: #1e6bb8;
 $nilearn-lightblue: #3499cd;
 $nilearn-lightorange: #fff3d3;
 $nilearn-bgorange: #fffaee;
-$nilearn-bgblue: e8f7ff;
+$nilearn-bgblue: #e8f7ff;
 
 /*
 	Prologue by HTML5 UP
@@ -604,7 +604,7 @@ $nilearn-bgblue: e8f7ff;
 						color: #fff;
 
 						span::before {
-							color: #e27689;
+							color: $nilearn-lightorange;
 						}
 					}
 				}
