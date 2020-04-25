@@ -69,10 +69,10 @@ $nilearn-bgblue: #e8f7ff;
 
 	body {
 		background: #ffffff;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
-		font-weight: 300;
 		line-height: 1.75em;
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 16px;
+		line-height: 1.5;
 		color: #888;
 
 		&.is-loading * {
@@ -82,10 +82,9 @@ $nilearn-bgblue: #e8f7ff;
 	}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
-		font-weight: 300;
-		line-height: 1.75em;
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 17px;
+		line-height: 1.5;
 		color: #888;
 	}
 
