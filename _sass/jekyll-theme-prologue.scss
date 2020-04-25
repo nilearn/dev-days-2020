@@ -5,6 +5,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 $nilearn-darkorange: #bf6200;
+$nilearn-darkerorange: #934b00;
 $nilearn-blue: #1e6bb8;
 $nilearn-lightblue: #3499cd;
 $nilearn-lightorange: #fff3d3;
@@ -127,7 +128,7 @@ $nilearn-bgblue: #e8f7ff;
 
 	strong, b {
 		font-weight: 300;
-		color: $nilearn-darkorange;
+		color: $nilearn-darkerorange;
 	}
 
 	em, i {
