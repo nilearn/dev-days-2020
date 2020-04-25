@@ -6,7 +6,7 @@ order: 4
 ---
 
 
-EDT | CET | Speaker | Presentation Title
+EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
 09:00 | 15:00 | [Gaël Varoquaux](http://gael-varoquaux.info/) | Introduction and overview
 09:30 | 15:30 |  [Julia Hutenburg](https://github.com/juhuntenburg) | Adding new features to Nilearn
@@ -20,4 +20,9 @@ EDT | CET | Speaker | Presentation Title
 14:45 | 20:45 |  [Jérôme Dockès](https://jeromedockes.github.io/) | Continuous integration for academic software
 15:30 | 21:30 |  [Alejandro de la Vega](https://adelavega.github.io/)  | The Python ecosystem for neuroimaging
 
+<sup>&#42;</sup> EDT: [Eastern Daylight Time](https://time.is/EDT): New
+York, Boston, Philadelphia, Montreal
+
+CET: [Central European Time](https://time.is/CET): Paris, Rome, Berlin,
+Madrid
 
