@@ -907,6 +907,10 @@ $nilearn-bgblue: #e8f7ff;
 
 			table {
 			    font-size: 80%;
+
+			    th, td {
+				margin: .5em;
+			    }
 			}
 
 		/* Header */
