@@ -18,7 +18,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Join online the Nilearn development community and shape what's next
 author: Nilearn team
 email: nilearn.events@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/nilearn-logo.png
 
 
 # You'll want to customize url and baseurl for your own site:
