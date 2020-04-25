@@ -16,7 +16,7 @@ EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 10:15 | 16:15 |  | Break
 10:30 | 16:30 |  [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) | Documentation-driven development
 11:15 | 17:15 |  [Gaël Varoquaux](http://gael-varoquaux.info/) | Open source software: how to live long and go far
-12:00 | 18:00 |  | Biobreak
+12:00 | 18:00 |  | Break
 13:00 | 19:00 |  [Elizabeth DuPre](https://elizabeth-dupre.com) | GitHub for project maintainers
 13:45 | 19:45 |  [Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  | Testing numerical code in python
 14:30 | 20:30 |  | Break

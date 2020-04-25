@@ -5,6 +5,9 @@ icon: fa-laptop-code
 order: 6
 ---
 
+The sprint will be a community effort to work on nilearn: adding new
+features, improving examples, documentations.
+
 If you would like to receive information about the organization of the online
 sprint directly by email, please fill the form below.
 Otherwise this page will be maintained up-to-date.

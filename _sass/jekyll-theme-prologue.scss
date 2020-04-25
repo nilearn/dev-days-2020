@@ -1093,12 +1093,12 @@ $nilearn-bgblue: #e8f7ff;
 
 				section {
 					&.cover {
-						padding: 4em 0em;
+						padding: 2.5em 0em 4em 0em;
 
 						header {
 							padding: 0 1em;
 							color: black;
-							text-shadow: 0px 0px 12px #fff;
+							text-shadow: 0px 0px 20px #fff;
 							font-weight: 600;
 
 							h2, a {
@@ -1110,6 +1110,11 @@ $nilearn-bgblue: #e8f7ff;
 							    margin: 0 0 1.5em 0;
 							}
 						}
+
+					    img.back {
+						width: unset;
+						height: 110%;
+					    }
 					}
 				}
 			}
