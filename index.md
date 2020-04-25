@@ -7,7 +7,8 @@ title: Nilearn Dev Days 2020
 subtitle: Join online the Nilearn development community and shape what's next 
 icon: fa-home
 order: 1
-cover-photo: assets/images/banner.jpg
+cover-photo: assets/images/grandpre_pano.jpg
+cover-photo-alt: A nilearn tutorial
 auto-header: none
 ---
 
