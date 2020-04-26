@@ -2,7 +2,7 @@
 title: Scientific day
 subtitle: 22 May - Confirmed Speakers
 icon: fa-microscope
-order: 5
+layout: page
 ---
 
 The scientific day will illustrate exciting neuroscience that can be done

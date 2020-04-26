@@ -1,8 +1,8 @@
 ---
-title: Software development day 
+title: Software development day
 subtitle: 19 May - Confirmed Speakers
 icon: fa-laptop-code
-order: 4
+layout: page
 ---
 
 The software day will teach the development and open-science principles

@@ -2,7 +2,7 @@
 title: Coding sprint
 subtitle: Improve nilearn
 icon: fa-laptop-code
-order: 6
+layout: page
 ---
 
 The sprint will be a community effort to work on nilearn: adding new
