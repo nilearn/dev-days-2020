@@ -4,9 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Nilearn Dev Days 2020
-subtitle: Join online the Nilearn development community and shape what's next
+subtitle: Join online the Nilearn development community and shape what's next 
 icon: fa-home
 order: 1
+cover-photo: assets/images/grandpre_pano.jpg
+cover-photo-alt: A nilearn tutorial
 auto-header: none
 ---
 
