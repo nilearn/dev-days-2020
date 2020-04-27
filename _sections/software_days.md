@@ -12,7 +12,7 @@ maintainers.
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
 09:00 | 15:00 | [Gaël Varoquaux](http://gael-varoquaux.info/) | Introduction and overview
-09:30 | 15:30 |  [Julia Hutenburg](https://github.com/juhuntenburg) | Adding new features to Nilearn
+09:30 | 15:30 |  [Julia Huntenburg](https://github.com/juhuntenburg) | Adding new features to Nilearn
 10:15 | 16:15 |  | Break
 10:30 | 16:30 |  [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) | Documentation-driven development
 11:15 | 17:15 |  [Gaël Varoquaux](http://gael-varoquaux.info/) | Open source software: how to live long and go far
