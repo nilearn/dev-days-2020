@@ -15,16 +15,16 @@ that have been performed using nilearn.
 
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
-09:00 | 15:00 | Gael Varoquaux? Bertrand Thirion ? | Introduction
+09:00 | 15:00 | Nilearn Team | Introduction
 09:10 | 15:10 | [Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
 09:50 | 15:50 |  [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/) | Rastermap: A Visualization Tool for High-dimensional Neural Data
 10:30 | 16:30 |  | Break
-10:40 | 16:40 |  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/) | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
-11:20 | 17:20 |  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)| Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
-12:00 | 18:00 |  | Break
-13:00 | 19:00 |  [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
-13:40 | 19:40 |  [Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0) | *to be announced*
-14:20 | 20:20 | Wrap-up
+10:50 | 16:50 |  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/) | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
+11:30 | 17:30 |  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)| Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
+12:15 | 18:15 |  | Break
+13:30 | 19:30 |  [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
+14:10 | 20:10 |  [Luke J Chang](https://pbs.dartmouth.edu/people/luke-j-chang-0) | *to be announced*
+14:50 | 20:50 | Nilearn Team | Wrap-up
 
 <sup>&#42;</sup> EDT: [Eastern Daylight Time](https://time.is/EDT): New
 York, Boston, Philadelphia, Montreal...
