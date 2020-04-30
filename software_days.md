@@ -10,7 +10,7 @@ The software day will teach the development and open-science principles
 that underly nilearn. Its goal is to empower new developers and
 maintainers.
 
-## Confirmed Speakers
+### Confirmed Speakers
 
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------

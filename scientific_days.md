@@ -13,7 +13,7 @@ that have been performed using nilearn.
 
  *Schedule is tentative and may change*
 
-## Confirmed Speakers
+### Confirmed Speakers
 
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
