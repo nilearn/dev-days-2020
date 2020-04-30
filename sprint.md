@@ -2,6 +2,7 @@
 title: Coding sprint
 subtitle: Improve nilearn
 icon: fa-laptop-code
+layout: "page"
 order: 6
 ---
 

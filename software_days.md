@@ -1,13 +1,16 @@
 ---
 title: Software development day
-subtitle: 19 May - Confirmed Speakers
+subtitle: 19 May
 icon: fa-laptop-code
+layout: "page"
 order: 4
 ---
 
 The software day will teach the development and open-science principles
 that underly nilearn. Its goal is to empower new developers and
 maintainers.
+
+## Confirmed Speakers
 
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------

@@ -1,7 +1,8 @@
 ---
 title: Scientific day
-subtitle: 22 May - Confirmed Speakers
+subtitle: 22 May
 icon: fa-microscope
+layout: "page"
 order: 5
 ---
 
@@ -12,6 +13,7 @@ that have been performed using nilearn.
 
  *Schedule is tentative and may change*
 
+## Confirmed Speakers
 
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
