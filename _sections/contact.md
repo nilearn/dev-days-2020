@@ -8,5 +8,5 @@ order: 7
 
 Please contact the [Nilearn Events](mailto:nilearn.events@gmail.com) team if you have questions, or want to participate in any of the events.
 
-This event benefit from the European Union’s Horizon 2020 Research and
+This event benefits from the European Union’s Horizon 2020 Research and
 Innovation Programme under Grant Agreement HBP SGA3.
