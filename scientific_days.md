@@ -18,7 +18,7 @@ that have been performed using nilearn.
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
 09:00 | 15:00 | Nilearn Team | Introduction
-09:10 | 15:10 | [Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/)/[Alexa Pichet Binette](https://www.pubfacts.com/author/Alexa+Pichet-Binette) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
+09:10 | 15:10 | [Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
 09:50 | 15:50 |  *tba* | *to be announced*
 10:30 | 16:30 |  | Break
 10:50 | 16:50 |  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/) | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
