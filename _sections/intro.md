@@ -1,5 +1,5 @@
 ---
-title: Dev Days
+title: "Nilearn Dev Days: Science and Software"
 icon: fa-th
 order: 2
 ---
