@@ -19,7 +19,7 @@ EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
 09:00 | 15:00 | Nilearn Team | Introduction
 09:10 | 15:10 | [Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/) | Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease
-09:50 | 15:50 |  *tba* | *to be announced*
+09:50 | 15:50 |  [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/) | Rastermap: A Visualization Tool for High-dimensional Neural Data
 10:30 | 16:30 |  | Break
 10:50 | 16:50 |  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/) | Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior
 11:30 | 17:30 |  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)| Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
