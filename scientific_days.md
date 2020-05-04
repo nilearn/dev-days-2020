@@ -25,7 +25,7 @@ EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 11:30 | 17:30 |  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)| Bagging Improves Reproducibility of Functional Parcellation of the Human Brain
 12:15 | 18:15 |  | Break
 13:30 | 19:30 |  [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences
-14:10 | 20:10 |  *tba* | *to be announced*
+14:10 | 20:10 |  [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager) | Predictive models and machine learning: Prediction, explanation, and connections across fields
 14:50 | 20:50 | Nilearn Team | Wrap-up
 
 <sup>&#42;</sup> EDT: [Eastern Daylight Time](https://time.is/EDT): New
