@@ -16,4 +16,4 @@ In the 2020 Dev Days, we hope to **increase the awareness of Nilearn's developme
 We also hope to **highlight future directions** where we are especially excited to see **community-driven development** efforts.
 
 
-
+> the event does not require registration to listen
