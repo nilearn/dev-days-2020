@@ -18,5 +18,5 @@ href="http://www.frqnt.gouv.qc.ca/en/la-recherche/la-recherche-financee-par-le-f
 (UNIQUE)' height="75px"></a>
 
 This event benefits from the European Union’s Horizon 2020 Research and
-Innovation Programme under Grant Agreement HBP SGA3, and well as support
+Innovation Programme under Grant Agreement HBP SGA3, as well as support
 from the UNIQUE center, Unifying AI and Neuroscience – Québec.
