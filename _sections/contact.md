@@ -14,7 +14,7 @@ Please contact the [Nilearn Events](mailto:nilearn.events@gmail.com) team if you
 Project](https://sos-ch-dk-2.exo.io/public-website-production/img/HBP.png)](https://www.humanbrainproject.eu/en/)
 <a
 href="http://www.frqnt.gouv.qc.ca/en/la-recherche/la-recherche-financee-par-le-frqnt/regroupements-de-chercheurs/groupe/unifying-ai-and-neuroscience--quebec-unique--pb56gail1573584475020" height="75px">
-<img src="unique-logo.png" alt='Unifying AI and Neuroscience – Québec
+<img src="assets/images/unique-logo.png" alt='Unifying AI and Neuroscience – Québec
 (UNIQUE)'></a>
 
 This event benefits from the European Union’s Horizon 2020 Research and
