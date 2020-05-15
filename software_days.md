@@ -10,7 +10,7 @@ The software day will teach the development and open-science principles
 that underly nilearn. Its goal is to empower new developers and
 maintainers.
 
-[All the talks will be brodcasted on Youtube]https://www.youtube.com/channel/UCU6BMAi2zOhNFnDkbdevmPw/live
+[All the talks will be brodcasted on Youtube. Click here]https://www.youtube.com/channel/UCU6BMAi2zOhNFnDkbdevmPw/live
 
 ### Confirmed Speakers
 
