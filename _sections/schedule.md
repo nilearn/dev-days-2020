@@ -13,5 +13,5 @@ Coding Sprint for Nilearn ([Register](/dev-days-2020/sprint.html)) | Improve and
 Scientific day: Machine Learning in Neuroimaging ([Speakers](/dev-days-2020/scientific_days.html)) | Applications of machine learning in Neuroimaging | 22 May
 
 For the two mini-conferences (Software Development Day and Scientific Day), all talks
-will be [recorded]https://www.crowdcast.io/nilearn-events and [posted online]https://www.youtube.com/channel/UCU6BMAi2zOhNFnDkbdevmPw/live.
+will be [recorded](https://www.crowdcast.io/nilearn-events) and [posted online](https://www.youtube.com/channel/UCU6BMAi2zOhNFnDkbdevmPw/live).
 
