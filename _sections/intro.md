@@ -16,5 +16,5 @@ In the 2020 Dev Days, we hope to **increase the awareness of Nilearn's developme
 We also hope to **highlight future directions** where we are especially excited to see **community-driven development** efforts.
 
 
-The talks for the Software Development and Scientific days will be freely available with public links shared on the event schedule.
-We strongly encourage registration for the Code Sprint, which can be done [here](/dev-days-2020/sprint.html)
+The talks for the Software Development and Scientific days will be freely
+available with public links shared [below](#joining).
