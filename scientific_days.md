@@ -11,7 +11,8 @@ with techniques such as those in nilearn. As the goal is to inspire and
 sketch the future of nilearn, the talks are not restricted to studies
 that have been performed using nilearn.
 
-All talks will be hosted on Crowdcast and simultaneously [live-streamed on Youtube.](https://www.youtube.com/channel/UCU6BMAi2zOhNFnDkbdevmPw/live)
+All talks will be [online](https://nilearn.github.io/dev-days-2020/#joining).
+
 
 ### Confirmed Speakers
 

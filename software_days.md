@@ -10,7 +10,7 @@ The software day will teach the development and open-science principles
 that underly nilearn. Its goal is to empower new developers and
 maintainers.
 
-All talks will be hosted on Crowdcast and simultaneously [live-streamed on Youtube.](https://www.youtube.com/channel/UCU6BMAi2zOhNFnDkbdevmPw/live)
+All talks will be [online](https://nilearn.github.io/dev-days-2020/#joining).
 
 ### Confirmed Speakers
 
