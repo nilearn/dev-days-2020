@@ -12,6 +12,3 @@ Software development day ([Speakers](/dev-days-2020/software_days.html)) | Best 
 Coding Sprint for Nilearn ([Register](/dev-days-2020/sprint.html)) | Improve and extend the Nilearn library under the guidance of the Nilearn team. For developers and experienced users. | 20-21 May
 Scientific day: Machine Learning in Neuroimaging ([Speakers](/dev-days-2020/scientific_days.html)) | Applications of machine learning in Neuroimaging | 22 May
 
-For the two mini-conferences (Software Development Day and Scientific Day), all talks
-will be [recorded](https://www.crowdcast.io/nilearn-events) and [posted online](https://www.youtube.com/channel/UCU6BMAi2zOhNFnDkbdevmPw/live).
-
