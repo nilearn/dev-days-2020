@@ -25,8 +25,9 @@ EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 13:00 | 19:00 |  [Elizabeth DuPre](https://elizabeth-dupre.com) | [GitHub for project maintainers](https://www.crowdcast.io/e/software-development-day-5)
 13:45 | 19:45 |  [Chris Markiewicz](http://reproducibility.stanford.edu/team/chris-markiewicz/)  | [Testing numerical code in python](https://www.crowdcast.io/e/software-development-day-5)
 14:30 | 20:30 |  | [Break](https://town.siempre.io/ocZ5ZFmJS6cUNKWx/nilearn)
-14:45 | 20:45 |  [Jérôme Dockès](https://jeromedockes.github.io/) | [Continuous integration for academic software](https://www.crowdcast.io/e/software-development-day-7)
+14:45 | 20:45 |  [Jérôme Dockès](https://jeromedockes.github.io/) | [Continuous integration platforms](https://www.crowdcast.io/e/software-development-day-7)
 15:30 | 21:30 |  [Alejandro de la Vega](https://adelavega.github.io/)  | [The Python ecosystem for neuroimaging](https://www.crowdcast.io/e/software-development-day-7)
+
 
 <sup>&#42;</sup> EDT: [Eastern Daylight Time](https://time.is/EDT): New
 York, Boston, Philadelphia, Montreal...
