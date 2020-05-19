@@ -19,7 +19,7 @@ All talks will be [online](https://nilearn.github.io/dev-days-2020/#joining).
 EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 ----|-----|---------|-------------------
 09:00 | 15:00 | Nilearn Team | [Introduction](https://www.crowdcast.io/e/scientific-day)
-09:10 | 15:10 | [Sylvia Villeneuve](http://www.villeneuvelab.com/en/home/) | [Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease](https://www.crowdcast.io/e/predicting-functional)
+09:10 | 15:10 | [Sylvia Villeneuve](https://douglas.research.mcgill.ca/fr/sylvia-villeneuve) | [Predicting Functional Brain Aging in Preclinical Alzheimer’s Disease](https://www.crowdcast.io/e/predicting-functional)
 09:50 | 15:50 |  [Carsen Stringer](http://www.gatsby.ucl.ac.uk/~cstringer/) | [Rastermap: A Visualization Tool for High-dimensional Neural Data](https://www.crowdcast.io/e/rastermap-a)
 10:30 | 16:30 |  | [Break](https://town.siempre.io/ocZ5ZFmJS6cUNKWx/nilearn)
 10:50 | 16:50 |  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/) | [Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior](https://www.crowdcast.io/e/comparing-high)
