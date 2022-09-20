@@ -25,9 +25,9 @@ EDT<sup>&#42;</sup> | CET<sup>&#42;</sup> | Speaker | Presentation Title
 10:50 | 16:50 |  [Eva Dyer](https://dyerlab.gatech.edu/people/pi-profile/) | [Comparing High-Dimensional Neural Recordings Across Time, Space, and Behavior](https://www.crowdcast.io/e/nilearn-science-day-2020)
 11:30 | 17:30 |  [Aki Nikolaidis](https://childmind.org/bio/aki-nikolaidis-phd/)| [Bagging Improves Reproducibility of Functional Parcellation of the Human Brain](https://www.crowdcast.io/e/nilearn-science-day-2020)
 12:15 | 18:15 |  | [Break](https://town.siempre.io/ocZ5ZFmJS6cUNKWx/nilearn)
-13:30 | 19:30 |  [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | [Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences](https://www.crowdcast.io/e/scientific-day)
-14:10 | 20:10 |  [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager) | [Predictive models and machine learning: Prediction, explanation, and connections across fields](https://www.crowdcast.io/e/nilearn-science-day-2020)
-14:50 | 20:50 | Nilearn Team | [Wrap-up](https://www.crowdcast.io/e/nilearn-science-day-2020)
+13:30 | 19:30 |  [Jo Etzel](https://sites.wustl.edu/ccplab/people/jo-etzel/) | [Pattern Similarity Analyses of Frontoparietal Task Coding: Individual Variation and Genetic Influences](https://bluejeans.com/619023789)
+14:10 | 20:10 |  [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager) | [Predictive models and machine learning: Prediction, explanation, and connections across fields](https://bluejeans.com/619023789)
+14:50 | 20:50 | Nilearn Team | [Wrap-up](https://bluejeans.com/619023789)
 
 <sup>&#42;</sup> EDT: [Eastern Daylight Time](https://time.is/EDT): New
 York, Boston, Philadelphia, Montreal...
